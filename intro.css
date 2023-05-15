@@ -1,0 +1,42 @@
+@charset "utf-8";
+#np1 {
+    width: 350px;
+    bottom: 500px;
+    left: 900px;
+    position: absolute;
+    top: 350px;
+    visibility: hidden;
+}
+#np2 {
+    left: 920px;
+    position: absolute;
+    top: 400px;
+    bottom: 300px;
+    visibility: hidden;
+}
+#np3 {
+    left: 920px;
+    top: 600px;
+    bottom: 500px;
+    position: absolute;
+    visibility: hidden;
+}
+#np4 {
+    left: 920px;
+    position: absolute;
+    top: 400px;
+    bottom: 500px;
+    visibility: hidden;
+}
+#np5 {
+    position: absolute;
+    left: 920px;
+    top: 650px;
+    visibility: hidden;
+}
+#np6 {
+    position: absolute;
+    top: 350px;
+    left: 35px;
+    visibility: hidden;
+}

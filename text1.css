@@ -1,0 +1,30 @@
+@charset "utf-8";
+.title1 {
+    color: #FF0004;
+    font-size: 20px;
+    text-align: center;
+    /* [disabled]text-indent: 2px; */
+}
+.title2 {
+    font-size: 22px;
+    color: #FF00BE;
+}
+.text {
+    color: #000000;
+    font-size: 16px;
+}
+.bg {
+    background-color: #E8DDB5;
+}
+.photo1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 8px double #A00101;
+    margin-bottom: 17px;
+    float: right;
+    clear: none;
+    margin-right: 25px;
+    margin-top: 10px;
+}
